@@ -14,7 +14,7 @@ The primary objective was not only to observe whether convolutional neural netwo
 
 ## 2. Core Research Question
 
-**Do convolutional neural networks degrade gracefully under distribution shift, or do structured corruptions induce predictable failure modes?**
+Do convolutional neural networks degrade gradually under distribution shift, or do certain corruptions cause sharp, predictable failure patterns?
 
 Understanding this distinction is critical for developing reliable perception systems intended for real-world deployment.
 
